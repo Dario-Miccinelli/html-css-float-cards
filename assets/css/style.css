@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Fredoka', sans-serif;
+
+    }
+
+#title {
+    color: red;
+    justify-content: center;
+    text-align: center;
+    padding-top: 25px;
+}
+
+p{
+    text-align: center;
+    padding-top: 50px;
+}
+
+body {
+    width: 75%;
+    margin: auto;
+}
